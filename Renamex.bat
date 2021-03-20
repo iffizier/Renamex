@@ -1,0 +1,17 @@
+rename "*.3gp" *.3gpx
+rename "*.avi" *.avix
+rename "*.flv" *.flvx
+rename "*.mkv" *.mkvx
+rename "*.mov" *.movx
+rename "*.mpg" *.mpgx
+rename "*.mpeg" *.mpegx
+rename "*.mp4" *.mp4x
+rename "*.rmvb" *.rmvbx
+rename "*.ts" *.tsx
+rename "*.webm" *.webmx
+rename "*.wmv" *.wmvx
+rename "*.gif" *.gifx
+rename "*.jpg" *.jpgx
+rename "*.jpeg" *.jpegx
+rename "*.png" *.pngx
+rename "*.webp" *.webpx
